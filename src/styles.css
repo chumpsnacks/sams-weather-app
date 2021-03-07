@@ -1,0 +1,153 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/3b/c6/21/3bc6216ddcd8079ff13e567d4e8c86b7.jpg);
+  background-color: #ccccc;
+  background-attachment: fixed;
+}
+
+ul {
+  list-style: none;
+  font-size: 14px;
+  display: inline;
+}
+
+.card {
+  margin-top: 20px;
+  border: none;
+  background: rgba(253, 232, 194, 0.95);
+}
+
+.card-body {
+  font-family: Overpass;
+  color: rgb(44, 48, 47);
+}
+
+.card-body h1 {
+  font-size: 26px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card-body h2 {
+  font-size: 60px;
+  line-height: 1;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.card-body h3 {
+  font-size: 35px;
+  line-height: 1.1;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.row {
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 1;
+  padding-left: 60px;
+  padding-right: 0;
+  margin-bottom: -11px;
+}
+
+.col-3 {
+  margin-top: 10px;
+}
+
+.col-4 {
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.col-5 {
+  margin: 20px 0px 15px;
+}
+
+.fa-cloud-sun {
+  font-size: 150px;
+  padding-left: 150px;
+  padding-bottom: 20px;
+}
+
+.fa-sun,
+.fa-snowflake,
+.fa-cloud-sun-rain,
+.fa-wind,
+.fa-cloud {
+  font-size: 40px;
+}
+
+button.convert-button {
+  border-style: none;
+  border-radius: 4px;
+  position: relative;
+  top: -44px;
+  left: 450px;
+  font-family: Overpass;
+  font-size: 22px;
+  padding: 14px 12px 6px;
+  color: rgb(44, 48, 47);
+  background-color: rgba(253, 252, 251);
+}
+
+button.convert-button:hover {
+  background-color: #f5ce6f;
+  color: #fff;
+}
+
+button.convert-button:focus {
+  outline: none;
+}
+
+button.btn-primary {
+  font-family: Overpass;
+  color: rgb(44, 48, 47);
+  background-color: rgb(253, 252, 251);
+  border: none;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+button.btn-primary:hover {
+  background-color: #f5ce6f;
+}
+
+button.current-location-btn {
+  border-style: none;
+  border-radius: 4px;
+  position: relative;
+  top: -44px;
+  left: 450px;
+  font-family: Overpass;
+  font-size: 22px;
+  padding: 14px 12px 6px;
+  color: rgb(44, 48, 47);
+  background-color: rgba(253, 252, 251);
+}
+
+button.current-location-btn:hover {
+  background-color: #f5ce6f;
+  color: #fff;
+}
+
+button.current-location-btn:focus {
+  outline: none;
+}
+
+.searchbar {
+  font-size: 14px;
+  padding: 9px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 254, 0.7);
+  line-height: 1.4;
+}
+
+.searchbar:focus {
+  outline: none;
+}
+
+#today-low {
+  font-size: 24px;
+}
