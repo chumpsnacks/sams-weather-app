@@ -151,3 +151,8 @@ button.current-location-btn:focus {
 #today-low {
   font-size: 24px;
 }
+
+.repository {
+  font-size: 10px;
+  padding: 10px 0px;
+}
