@@ -154,5 +154,6 @@ button.current-location-btn:focus {
 
 .repository {
   font-size: 6px;
+  display: block;
   margin-top: 20px;
 }
