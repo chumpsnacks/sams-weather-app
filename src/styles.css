@@ -4,6 +4,10 @@ body {
   background-attachment: fixed;
 }
 
+body {
+  font-family: "Overpass", sans-serif;
+}
+
 ul {
   list-style: none;
   font-size: 14px;
