@@ -111,6 +111,9 @@ button.btn-primary {
   border: none;
   padding: 8px 12px;
   font-size: 14px;
+  position: inline;
+  top: -44px;
+  left: 430px;
 }
 
 button.btn-primary:hover {
