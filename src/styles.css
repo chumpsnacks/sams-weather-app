@@ -104,22 +104,6 @@ button.convert-button:focus {
   outline: none;
 }
 
-button.btn-primary {
-  font-family: Overpass;
-  color: rgb(44, 48, 47);
-  background-color: rgb(253, 252, 251);
-  border: none;
-  padding: 8px 12px;
-  font-size: 14px;
-  position: inline;
-  top: -44px;
-  left: 430px;
-}
-
-button.btn-primary:hover {
-  background-color: #f5ce6f;
-}
-
 button.current-location-btn {
   border-style: none;
   border-radius: 4px;
