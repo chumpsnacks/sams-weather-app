@@ -124,8 +124,8 @@ button.current-location-btn {
   top: -44px;
   left: 450px;
   font-family: Overpass;
-  font-size: 11px;
-  padding: 14px 12px 6px;
+  font-size: 12px;
+  padding: 14px 12px 14px;
   color: rgb(44, 48, 47);
   background-color: rgba(253, 252, 251);
 }
