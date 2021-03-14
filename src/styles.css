@@ -142,7 +142,7 @@ button.current-location-btn:focus {
   outline: none;
 }
 
-.searchbar {
+#search-bar {
   font-size: 14px;
   padding: 9px;
   border: none;
@@ -151,7 +151,7 @@ button.current-location-btn:focus {
   line-height: 1.4;
 }
 
-.searchbar:focus {
+#search-bar:focus {
   outline: none;
 }
 

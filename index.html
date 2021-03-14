@@ -19,8 +19,13 @@
           <div class="card-body">
             <body>
               <form>
-                <input type="text" class="searchbar" id="city-input" placeholder="Enter city here">
-                <button type="button" class="btn btn-primary">GO</button>
+                  <div class="input-group rounded">
+                    <input type="search" class="form-control rounded" id="search-bar" placeholder="Enter city here" aria-label="Search"
+                      aria-describedby="search-addon" />
+                    <span class="input-group-text border-0" id="search-addon">
+                      <i class="fas fa-search"></i>
+                    </span>
+                  </div>
                 <button type="button" class="current-location-btn">Current Location</button>
               </form>
               <button class="convert-button">°F</button>
