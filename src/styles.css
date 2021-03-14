@@ -159,4 +159,5 @@ button.current-location-btn:focus {
 .repository {
   font-size: 12px;
   display: inline;
+  padding: 20px 0px 0px 40px;
 }
